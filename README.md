@@ -1,0 +1,1 @@
+![alt text](https://github.com/dipitsh16/SalesOverview-PowerBI/blob/master/SalesOverview.png)
